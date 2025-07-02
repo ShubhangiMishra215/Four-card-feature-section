@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- 💻 **Solution URL:** [Add your solution URL here](https://your-solution-url.com)
-- 🌐 **Live Site URL:** [View live site here](https://your-live-site-url.com)
+- 💻 **Solution URL:** (https://github.com/ShubhangiMishra215/Four-card-feature-section.git)
+- 🌐 **Live Site URL:** (https://shubhangimishra215.github.io/Four-card-feature-section/)
 
 ---
 
